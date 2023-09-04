@@ -9,7 +9,7 @@ package cs4charmmuya;
  *
  * @author CHARM
  */
-public class CS4CharmMuya {
+public class CS4CharmMuyaEx1 {
 
     /**
      * @param args the command line arguments
